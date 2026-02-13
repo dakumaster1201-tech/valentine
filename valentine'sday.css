@@ -1,0 +1,26 @@
+h1,h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+#A{
+    width: 50%;
+}
+.B{
+    padding: 30px;
+    text-align:left ;
+    color: brown;
+    font-size: larger;
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.C{
+    padding:30px;
+    text-align: right;
+    color:pink;
+    font-size: larger;
+    font-family: "Love Ya Like A Sister", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

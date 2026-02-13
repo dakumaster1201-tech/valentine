@@ -1,0 +1,35 @@
+
+body {
+      background: aquamarine;
+      font-family: 'Playfair Display', serif;
+      display: flex;
+      justify-content: center;
+      padding: 40px;
+    }
+    .letter {
+      background: white;
+      max-width: 600px;
+      padding: 40px;
+      border-radius: 15px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-family: 'Dancing Script', cursive;
+      font-size: 36px;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.8;
+    }
+    .signature {
+      margin-top: 30px;
+      font-family: 'Dancing Script', cursive;
+      font-size: 28px;
+      width: 300px;
+    }
+    #AA{
+        
+        border-radius: 12PX;
+        margin-top: 30PX;
+        background-color: #ff69b4;
+    }
